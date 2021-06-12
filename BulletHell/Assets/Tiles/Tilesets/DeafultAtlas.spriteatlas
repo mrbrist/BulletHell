@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DeafultAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9f32237ae4ebc99428d2292dbc423091, type: 3}
+    totalSpriteSurfaceArea: 3072
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 8266815305156663548, guid: 9f32237ae4ebc99428d2292dbc423091, type: 3}
+  - {fileID: -2486526224704631793, guid: 9f32237ae4ebc99428d2292dbc423091, type: 3}
+  - {fileID: -687686590730729439, guid: 9f32237ae4ebc99428d2292dbc423091, type: 3}
+  - {fileID: 4329407632164072968, guid: 9f32237ae4ebc99428d2292dbc423091, type: 3}
+  - {fileID: 8015333145179078987, guid: 9f32237ae4ebc99428d2292dbc423091, type: 3}
+  - {fileID: 2444148772950851859, guid: 9f32237ae4ebc99428d2292dbc423091, type: 3}
+  - {fileID: 5126441972914278657, guid: 9f32237ae4ebc99428d2292dbc423091, type: 3}
+  - {fileID: -1492594608601113626, guid: 9f32237ae4ebc99428d2292dbc423091, type: 3}
+  - {fileID: -8564754273512781192, guid: 9f32237ae4ebc99428d2292dbc423091, type: 3}
+  - {fileID: -716453942463190638, guid: 9f32237ae4ebc99428d2292dbc423091, type: 3}
+  - {fileID: -7195436955488433664, guid: 9f32237ae4ebc99428d2292dbc423091, type: 3}
+  - {fileID: -7351184714492337967, guid: 9f32237ae4ebc99428d2292dbc423091, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Default_3
+  - Default_2
+  - Default_1
+  - Default_0
+  - Default_7
+  - Default_6
+  - Default_5
+  - Default_4
+  - Default_9
+  - Default_8
+  - Default_10
+  - Default_11
+  m_RenderDataMap: {}
+  m_Tag: DeafultAtlas
+  m_IsVariant: 0
